@@ -24,6 +24,7 @@ datasets = "*"
 torch = "*"
 torchvision = "*"
 langchain = "*"
+langchain-openai = "*"
 
 [dev-packages]
 
