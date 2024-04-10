@@ -23,6 +23,7 @@ tokenizers = "*"
 datasets = "*"
 torch = "*"
 torchvision = "*"
+langchain = "*"
 
 [dev-packages]
 
