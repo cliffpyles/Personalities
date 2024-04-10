@@ -1,0 +1,33 @@
+PersonalityType,Motivators
+ISTJ,Responsibility|Tradition|Stability|Order
+ISFJ,Harmony|Safety|Stability|Service to others
+INFJ,Meaningful work|Personal growth|Integrity|Helping others
+INTJ,Competence|Independence|Innovation|Achievement
+ISTP,Freedom|Variety|Ability to act on logic|Hands-on experience
+ISFP,Aesthetic expression|Harmony|Flexibility|Gentle interactions
+INFP,Idealism|Personal values|Creative expression|Authenticity
+INTP,Intellectual challenge|Competence|Independence|Theoretical exploration
+ESTP,Action|Impact|Variety|Problem solving
+ESFP,Positive interactions|Fun|Aesthetic experiences|Flexibility
+ENFP,Creativity|Innovation|Exploring possibilities|Inspiring others
+ENTP,Innovation|Debate|Problem solving|Exploring ideas
+ESTJ,Order|Structure|Efficiency|Achievement
+ESFJ,Harmony|Supporting others|Loyalty|Practical assistance
+ENFJ,Empathy|Harmony|Personal growth|Helping others
+ENTJ,Leadership|Efficiency|Strategy|Achievement
+Dominance-Influence,Control|Results|Influence|Persuasion
+Dominance-Steadiness,Control|Results|Stability|Support
+Dominance-Conscientiousness,Control|Results|Accuracy|Efficiency
+Influence-Steadiness,Enthusiasm|Collaboration|Support|Harmony
+Influence-Conscientiousness,Enthusiasm|Collaboration|Accuracy|Efficiency
+Steadiness-Conscientiousness,Support|Reliability|Accuracy|Efficiency
+Nurturer-Creative,Support|Harmony|Innovation|Creativity
+Nurturer-Guardian,Support|Harmony|Stability|Protection
+Nurturer-Connector,Support|Harmony|Relationships|Networking
+Creative-Guardian,Innovation|Creativity|Stability|Protection
+Creative-Connector,Innovation|Creativity|Relationships|Networking
+Guardian-Connector,Stability|Protection|Relationships|Networking
+Pioneer-Nurturer,Leadership|Innovation|Support|Harmony
+Pioneer-Creative,Leadership|Innovation|Creativity|Strategic thinking
+Pioneer-Guardian,Leadership|Innovation|Stability|Protection
+Pioneer-Connector,Leadership|Innovation|Relationships|Networking
