@@ -1,33 +1,42 @@
 PersonalityType,Motivators
 ISTJ,Responsibility|Tradition|Stability|Order
 ISFJ,Harmony|Safety|Stability|Service to others
-INFJ,Meaningful work|Personal growth|Integrity|Helping others
+INFJ,Meaningful work|Personal growth|Integrity|Contributing to the greater good
 INTJ,Competence|Independence|Innovation|Achievement
-ISTP,Freedom|Variety|Ability to act on logic|Hands-on experience
-ISFP,Aesthetic expression|Harmony|Flexibility|Gentle interactions
-INFP,Idealism|Personal values|Creative expression|Authenticity
+ISTP,Practical results|Freedom|Variety|Hands-on experience
+ISFP,Aesthetic experiences|Harmony|Flexibility|Gentle interactions
+INFP,Idealism|Harmony|Authenticity|Exploring inner thoughts
 INTP,Intellectual challenge|Competence|Independence|Theoretical exploration
-ESTP,Action|Impact|Variety|Problem solving
-ESFP,Positive interactions|Fun|Aesthetic experiences|Flexibility
-ENFP,Creativity|Innovation|Exploring possibilities|Inspiring others
-ENTP,Innovation|Debate|Problem solving|Exploring ideas
-ESTJ,Order|Structure|Efficiency|Achievement
+ESTP,Action|Impact|Excitement|Problem-solving
+ESFP,Positive interactions|Fun|Spontaneity|Aesthetic experiences
+ENFP,Possibilities|Creativity|Freedom|Collaborative relationships
+ENTP,Innovation|Debate|Knowledge|Flexibility
+ESTJ,Order|Efficiency|Results|Leadership
 ESFJ,Harmony|Supporting others|Loyalty|Practical assistance
-ENFJ,Empathy|Harmony|Personal growth|Helping others
-ENTJ,Leadership|Efficiency|Strategy|Achievement
-Dominance-Influence,Control|Results|Influence|Persuasion
-Dominance-Steadiness,Control|Results|Stability|Support
-Dominance-Conscientiousness,Control|Results|Accuracy|Efficiency
-Influence-Steadiness,Enthusiasm|Collaboration|Support|Harmony
-Influence-Conscientiousness,Enthusiasm|Collaboration|Accuracy|Efficiency
-Steadiness-Conscientiousness,Support|Reliability|Accuracy|Efficiency
-Nurturer-Creative,Support|Harmony|Innovation|Creativity
-Nurturer-Guardian,Support|Harmony|Stability|Protection
-Nurturer-Connector,Support|Harmony|Relationships|Networking
-Creative-Guardian,Innovation|Creativity|Stability|Protection
-Creative-Connector,Innovation|Creativity|Relationships|Networking
-Guardian-Connector,Stability|Protection|Relationships|Networking
-Pioneer-Nurturer,Leadership|Innovation|Support|Harmony
-Pioneer-Creative,Leadership|Innovation|Creativity|Strategic thinking
-Pioneer-Guardian,Leadership|Innovation|Stability|Protection
-Pioneer-Connector,Leadership|Innovation|Relationships|Networking
+ENFJ,Positive impact|Harmony|Personal growth|Authentic relationships
+ENTJ,Achievement|Efficiency|Leadership|Control
+Dominance,Results|Control|Challenge|Power
+Influence,Expression|Collaboration|Recognition|Social validation
+Steadiness,Stability|Support|Harmony|Consistency
+Conscientiousness,Accuracy|Quality|Independence|Predictability
+Dominance-Influence,Leadership|Social recognition|Influence|Achievement
+Dominance-Steadiness,Control|Stability|Efficiency|Support
+Dominance-Conscientiousness,Control|Accuracy|Efficiency|Challenge
+Influence-Steadiness,Harmony|Collaboration|Recognition|Consistency
+Influence-Conscientiousness,Quality|Expression|Accuracy|Social validation
+Steadiness-Conscientiousness,Stability|Quality|Support|Predictability
+Nurturer-Creative,Support|Innovation|Harmony|Creative solutions
+Nurturer-Guardian,Support|Stability|Harmony|Tradition
+Nurturer-Connector,Support|Harmony|Relationships|Community
+Creative-Guardian,Innovation|Stability|Creative solutions|Tradition
+Creative-Connector,Innovation|Relationships|Creative solutions|Community
+Guardian-Connector,Stability|Community|Tradition|Relationships
+Pioneer-Nurturer,Leadership|Support|Innovation|Harmony
+Pioneer-Creative,Leadership|Innovation|Vision|Creative solutions
+Pioneer-Guardian,Leadership|Stability|Vision|Tradition
+Pioneer-Connector,Leadership|Relationships|Vision|Community
+Nurturer,Support|Harmony|Service to others|Community
+Creative,Innovation|Vision|Uniqueness|Creative solutions
+Guardian,Stability|Tradition|Responsibility|Order
+Connector,Relationships|Community|Communication|Networking
+Pioneer,Leadership|Vision|Challenge|Innovation

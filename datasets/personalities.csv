@@ -15,6 +15,10 @@ Myers-Briggs|ESTJ|Supervisor|Hardworking traditionalists, eager to organize. Pra
 Myers-Briggs|ESFJ|Provider|Sociable harmonizers, eager to help and please. Attentive to others and work well in teams.
 Myers-Briggs|ENFJ|Teacher|Passionate leaders, skilled in communicating vision. Empathetic and organized.
 Myers-Briggs|ENTJ|Commander|Bold strategists, commanding and efficient. Drive to organize change and develop plans.
+DiSC|Dominance|Director|Focused on accomplishment and results. They prioritize overcoming obstacles, achieving goals, and assertive action.
+DiSC|Influence|Inspirer|Optimistic and outgoing, they excel in engaging and motivating others with enthusiasm and warmth.
+DiSC|Steadiness|Supporter|Dependable and cooperative, they prioritize harmony and support, offering a calming presence in teams.
+DiSC|Conscientiousness|Analyst|Prioritize accuracy, expertise, and competency. They enjoy working independently to produce quality, detailed work.
 DiSC|Dominance-Influence|Persuader|Combines assertiveness with enthusiasm, making them highly persuasive and bold. Dynamic leaders who inspire action.
 DiSC|Dominance-Steadiness|Achiever|A blend of results-oriented drive with supportive calmness. Lead with determination while ensuring team stability.
 DiSC|Dominance-Conscientiousness|Challenger|Highly efficient and analytical, combining a focus on results with meticulous attention to detail. Thrive on solving complex problems.
@@ -31,3 +35,8 @@ GiANT 5 Voices|Pioneer-Nurturer|Compassionate Leader|Combines visionary leadersh
 GiANT 5 Voices|Pioneer-Creative|Trailblazing Innovator|Strategic vision blended with creativity for pioneering new paths and inspiring teams with visionary ideas.
 GiANT 5 Voices|Pioneer-Guardian|Strategic Steward|Merges strategic leadership with a protective instinct, ensuring goals are met responsibly and standards are upheld.
 GiANT 5 Voices|Pioneer-Connector|Visionary Networker|Drives change while building supportive networks, inspiring and mobilizing people towards significant achievements.
+GiANT 5 Voices|Nurturer|Empathetic Supporter|Innately supportive and empathetic, Nurturers excel in creating a safe, caring environment for all.
+GiANT 5 Voices|Creative|Innovative Thinker|Driven by innovation and creativity, Creatives excel in envisioning new ideas and exploring possibilities.
+GiANT 5 Voices|Guardian|Reliable Protector|Guardians are the backbone of any team, providing stability, reliability, and a focus on standards and security.
+GiANT 5 Voices|Connector|Engaging Communicator|Connectors excel in communication, building relationships, and bringing people together with their charismatic nature.
+GiANT 5 Voices|Pioneer|Visionary Leader|Pioneers are natural leaders, pushing boundaries and inspiring others to follow them towards new horizons.
